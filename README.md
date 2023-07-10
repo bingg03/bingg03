@@ -3,5 +3,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bingg03&show_icons=true&locale=en&layout=compact" alt="bingg03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bingg03&show_icons=true&locale=en" alt="bingg03" /></p>
 
